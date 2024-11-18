@@ -1,0 +1,1001 @@
+Car Make,Country,Year,Mileage,Needs Repair
+Lotus,Nigeria,2005,491887,false
+Pontiac,Central African Republic,1971,490908,true
+Hummer,Ireland,1997,,false
+Suzuki,Sweden,2002,136542,false
+Mitsubishi,China,1999,,true
+Subaru,Russia,2004,278246,true
+Pontiac,Netherlands,1983,422623,false
+Subaru,Iceland,1988,407803,false
+Mitsubishi,Philippines,1992,482174,true
+Audi,Brazil,1984,352070,false
+Mercedes-Benz,Venezuela,1997,207554,false
+Toyota,Indonesia,1993,305788,false
+Mercedes-Benz,Ireland,2002,95629,true
+Dodge,Macedonia,1995,397625,true
+Dodge,Cuba,1981,133606,true
+Jaguar,Honduras,2003,157167,false
+Ferrari,Japan,2009,96407,false
+Kia,Indonesia,2008,136859,true
+Pontiac,China,1995,,false
+Audi,Japan,2012,124472,false
+Ferrari,Philippines,2008,302937,false
+Ford,United States,1987,38833,false
+Chevrolet,United States,1999,36492,false
+Chevrolet,South Korea,1999,44066,false
+BMW,Indonesia,2002,,false
+Mercedes-Benz,Ukraine,1999,167526,false
+Infiniti,Vietnam,2001,180710,true
+Mazda,Indonesia,2005,,true
+Ford,Macedonia,2008,337716,false
+Rolls-Royce,Portugal,2011,200050,false
+Honda,Russia,2004,89553,true
+BMW,Finland,2009,151708,false
+Lexus,Nicaragua,1991,339524,true
+GMC,Portugal,1994,112586,true
+Toyota,Russia,1996,499560,true
+Mazda,Brazil,1992,199652,true
+Lexus,China,2007,173527,true
+Volvo,Tanzania,1997,384159,true
+Dodge,Malaysia,2008,117202,false
+Scion,Kyrgyzstan,2010,,false
+Toyota,Sweden,2005,102969,true
+Jeep,Venezuela,,,true
+Mercury,Syria,2005,,false
+Volkswagen,Russia,2011,450595,true
+Hyundai,Mongolia,2007,266919,false
+Honda,Indonesia,1990,80434,false
+GMC,Nigeria,1994,,false
+BMW,Indonesia,2004,140552,true
+Mercury,China,1988,461404,true
+Land Rover,Cuba,,,false
+Porsche,Indonesia,1995,138749,false
+BMW,Russia,1959,222754,false
+Ford,Brazil,1985,192350,false
+Land Rover,Philippines,1996,386695,false
+Toyota,Mongolia,,,true
+Oldsmobile,Brazil,1966,37598,true
+Aston Martin,Peru,2006,486270,true
+Mitsubishi,United States,2009,,true
+Subaru,Russia,1985,23967,true
+Buick,France,1988,268964,true
+Chevrolet,United States,,,true
+Mitsubishi,Democratic Republic of the Congo,2012,77009,true
+Alfa Romeo,Serbia,1992,461152,false
+Dodge,Indonesia,2000,157921,false
+Toyota,Sweden,1993,441009,true
+Mazda,Brazil,2005,339205,false
+Mitsubishi,Tanzania,2000,426410,false
+Mercedes-Benz,Russia,2005,199755,true
+Buick,Brazil,2007,,true
+Ford,Brazil,1998,89359,false
+Cadillac,Russia,1992,45174,false
+Infiniti,Russia,2006,,false
+Pontiac,Indonesia,1985,431335,true
+Hummer,Russia,2001,476627,true
+Pontiac,Poland,,427482,false
+Mercedes-Benz,China,1996,,false
+Ford,Indonesia,2008,357588,true
+Chevrolet,Armenia,,413726,false
+Ford,South Africa,2009,350484,false
+Chevrolet,Belarus,,,false
+Audi,Japan,1988,484071,false
+Volvo,Canada,2012,100184,false
+Oldsmobile,Philippines,2001,383429,true
+Land Rover,Indonesia,1994,109255,true
+GMC,Botswana,2011,381471,true
+Subaru,Greece,1988,393260,true
+Chevrolet,Czech Republic,1995,460050,true
+Audi,China,2007,225023,true
+Honda,Indonesia,1998,,false
+GMC,Indonesia,1992,40946,true
+Nissan,Portugal,2011,316505,false
+Infiniti,Russia,1997,109548,false
+BMW,China,2007,,true
+Lexus,Albania,1993,388288,true
+Ford,Russia,1990,166196,false
+Acura,Indonesia,2001,452356,false
+Buick,Qatar,1993,71209,false
+Ford,China,1986,496829,false
+Nissan,Spain,2009,426075,true
+Chrysler,South Korea,2010,456368,false
+Nissan,Egypt,2003,399686,true
+Pontiac,Cameroon,1999,308920,false
+Lincoln,China,1987,435076,true
+Volkswagen,Russia,2008,71814,false
+Mazda,Mexico,2002,438590,false
+GMC,Indonesia,2004,32940,true
+GMC,Japan,2000,400090,true
+Chevrolet,Greece,1999,,true
+Pontiac,Thailand,1968,361181,false
+Mitsubishi,China,1990,18866,true
+Ford,Sweden,1994,363981,false
+Chevrolet,Mongolia,,,false
+Volvo,United States,2000,69360,true
+Mercedes-Benz,China,2004,,true
+Mazda,China,2001,,true
+Dodge,Peru,2008,487913,true
+GMC,Indonesia,2005,195381,true
+Cadillac,Peru,,61816,false
+Mercedes-Benz,China,2007,135867,true
+Ford,Thailand,2012,,true
+Ford,Canada,2010,426340,true
+Mercedes-Benz,China,2005,35156,true
+GMC,Nigeria,1996,452598,true
+Mitsubishi,Indonesia,1986,251008,false
+Jeep,Mexico,2009,448056,true
+Infiniti,Uganda,1999,413400,false
+Acura,Armenia,1994,492329,false
+GMC,Iran,2010,,false
+GMC,Vietnam,1996,25026,true
+Ford,Philippines,1995,37916,false
+Lamborghini,China,1999,292085,false
+Lexus,Kazakhstan,,123735,false
+Kia,Indonesia,2002,168932,true
+Ford,Japan,2010,415485,false
+Lexus,Poland,,210596,true
+Mazda,Indonesia,2000,165662,false
+Lexus,Poland,2011,200194,false
+Mazda,Japan,2012,295640,true
+Chrysler,Indonesia,2004,86072,false
+Toyota,Egypt,,438832,false
+Lotus,China,2006,292077,true
+Chevrolet,China,1997,167632,true
+Ferrari,China,2010,415440,true
+Chevrolet,Mexico,2007,340121,true
+Ford,Jordan,2002,21834,true
+Hyundai,Philippines,2000,327204,true
+Dodge,Colombia,1992,216569,false
+Lexus,Bolivia,1990,308837,true
+Toyota,Albania,2012,,true
+GMC,Brazil,2008,479623,true
+Cadillac,Cameroon,1999,16929,true
+Subaru,Martinique,1999,492144,true
+Mercedes-Benz,China,1984,,true
+Volkswagen,France,2004,226689,false
+Suzuki,Russia,2002,66545,false
+Hyundai,Belarus,2006,,false
+Honda,Indonesia,2009,380299,false
+Ford,Canada,2005,496128,false
+Ford,Ecuador,1985,489548,true
+Isuzu,Indonesia,2007,,true
+Chrysler,Thailand,2001,114104,true
+Dodge,Japan,1997,35637,false
+Mazda,Czech Republic,1988,,false
+Mercury,China,1985,464031,true
+Nissan,Puerto Rico,2002,269076,false
+Hyundai,Poland,2004,411968,true
+Jeep,China,2006,371285,true
+Buick,Greece,1990,,false
+Toyota,China,2004,278043,false
+Mitsubishi,Indonesia,2009,182934,false
+Jeep,Indonesia,2006,314637,true
+Lexus,China,2012,103780,false
+GMC,Sweden,2004,,true
+Kia,Russia,2002,359772,false
+Buick,Palestinian Territory,2002,376469,true
+Ford,China,2000,,true
+Mercedes-Benz,Japan,2005,,false
+Land Rover,Philippines,2011,296293,false
+Infiniti,Vietnam,2008,,true
+Honda,Central African Republic,2003,283475,true
+Lexus,South Africa,1993,439109,true
+Dodge,Greece,2007,498321,true
+Mercury,Philippines,1989,,false
+Volkswagen,Indonesia,1985,366552,true
+GMC,Philippines,,151152,false
+Volvo,Philippines,2008,270960,true
+Plymouth,Slovenia,1993,308863,true
+Ford,Albania,1989,41701,false
+BMW,Uruguay,1992,,false
+Chevrolet,Brazil,2003,354437,true
+Lincoln,Czech Republic,1989,148444,false
+Volkswagen,Philippines,1990,470090,true
+Plymouth,Japan,1999,,true
+Volvo,Poland,2009,354467,false
+Pontiac,Peru,2005,486458,false
+Nissan,Czech Republic,2005,226022,false
+Volkswagen,China,2000,316640,false
+Infiniti,Poland,2007,,false
+Chevrolet,China,1994,245381,false
+Mercedes-Benz,Czech Republic,2011,389482,true
+Chevrolet,France,2006,230693,true
+Porsche,Indonesia,1995,186839,false
+Chevrolet,United States,2011,121909,true
+Audi,France,2008,229558,true
+Suzuki,Indonesia,1989,493600,false
+Toyota,China,1998,359790,false
+Chevrolet,Portugal,2006,,false
+Pontiac,Indonesia,1997,471500,false
+Dodge,Bangladesh,1995,419227,true
+Chevrolet,Russia,2012,376947,false
+Toyota,Portugal,2003,250716,false
+Bentley,Sweden,2010,,false
+Mitsubishi,Russia,1994,51352,true
+Chevrolet,Japan,2004,472949,true
+Chevrolet,Indonesia,1978,389332,false
+Isuzu,Philippines,1992,,true
+Dodge,Central African Republic,,448915,false
+Pontiac,Brazil,1996,,true
+Volkswagen,Brazil,1990,224909,true
+Mitsubishi,Finland,1993,,true
+Mitsubishi,Mongolia,2005,412268,true
+Suzuki,Lithuania,1996,246492,false
+Chevrolet,Indonesia,,203393,false
+Chevrolet,Brazil,2000,88787,true
+Toyota,Bermuda,1998,,false
+Mitsubishi,Greece,2005,,false
+GMC,Indonesia,2006,239263,true
+Mitsubishi,Bosnia and Herzegovina,,476084,false
+Ford,Russia,2008,186571,true
+BMW,China,2012,,true
+Ford,China,1996,155299,false
+Toyota,Thailand,,433235,false
+Ferrari,Colombia,2009,143549,true
+Dodge,Japan,2007,281031,false
+Mitsubishi,Poland,2012,442701,true
+Nissan,Belarus,1996,,false
+Mazda,Thailand,1990,110063,true
+Dodge,Australia,1995,198998,true
+Dodge,Nigeria,2008,482081,false
+Audi,Portugal,2009,,true
+BMW,Somalia,2011,,true
+BMW,Canada,2006,,false
+Chrysler,Belarus,,472466,true
+Mitsubishi,Canada,1987,432467,false
+Buick,Indonesia,1993,448138,true
+Volkswagen,Syria,1999,97081,true
+Acura,Uganda,2007,,false
+Ford,Indonesia,1972,244162,true
+Plymouth,Philippines,1998,20952,false
+Porsche,United States,1988,125587,false
+Mitsubishi,Greece,1995,229851,false
+Suzuki,Russia,2008,72841,true
+Nissan,Sweden,2005,101007,false
+Audi,Japan,2009,376822,false
+Pontiac,Egypt,2009,306312,true
+Buick,Bangladesh,1996,360931,false
+Ford,China,2009,66534,false
+Chevrolet,Nigeria,2008,317294,true
+Infiniti,Peru,2003,487270,false
+Volvo,Poland,2011,302444,false
+Hyundai,Brazil,2012,206470,true
+BMW,Argentina,1993,186938,true
+Subaru,Brazil,2006,,false
+Lincoln,Indonesia,1985,147661,false
+Infiniti,Vietnam,2008,211860,true
+Ford,China,2007,469760,true
+Mitsubishi,Brazil,1990,376010,false
+Dodge,China,1994,210246,true
+Honda,Thailand,2004,308065,true
+Nissan,Madagascar,2011,,true
+Ford,Greece,2002,406321,false
+Toyota,South Africa,1987,202620,true
+Isuzu,Mexico,2002,65347,true
+Ford,China,1992,379442,false
+Aston Martin,Philippines,2010,481916,true
+Acura,China,,172627,false
+Mercedes-Benz,Philippines,1999,384321,true
+Infiniti,Brazil,2011,,false
+Suzuki,Moldova,1986,166288,false
+Nissan,Brazil,2005,30512,false
+GMC,France,1996,67763,true
+Mazda,China,2000,273020,false
+GMC,Panama,2000,,false
+GMC,Russia,1994,62699,true
+Infiniti,China,1996,93468,false
+Mitsubishi,China,2006,190292,false
+Jeep,China,2002,127473,false
+Toyota,Colombia,1999,,false
+Subaru,Thailand,2000,231312,false
+Chrysler,Switzerland,,,false
+Volkswagen,Colombia,2001,192273,false
+Audi,Bosnia and Herzegovina,2004,330683,false
+Ford,France,2004,150145,false
+GMC,Sweden,1995,264568,true
+Ford,Finland,2003,263421,true
+Pontiac,Haiti,1988,463001,false
+Chevrolet,Belarus,,27565,false
+Ford,China,,390596,false
+Oldsmobile,Indonesia,1997,309915,true
+Aston Martin,Brazil,2011,65011,false
+Mercedes-Benz,Indonesia,1993,493817,true
+Chevrolet,China,1994,325960,false
+Audi,Micronesia,2008,457735,true
+Ford,Portugal,1991,413623,false
+Dodge,Indonesia,2005,393770,false
+Acura,Thailand,,,true
+Acura,Sweden,1997,231068,true
+Saturn,Sweden,2009,444106,false
+Land Rover,Gambia,2011,238762,false
+Honda,Sweden,2010,403390,false
+Ford,Kazakhstan,2001,51011,true
+GMC,Argentina,2012,,true
+Mercedes-Benz,Ukraine,2006,357756,true
+Honda,Ukraine,1997,361364,false
+Geo,Vietnam,1994,21380,false
+Pontiac,China,2000,36098,false
+Chevrolet,Tunisia,1996,,false
+Isuzu,China,1998,294142,true
+Chevrolet,Philippines,2000,,true
+Ford,Poland,2008,371992,true
+BMW,China,2012,391050,false
+Volkswagen,Syria,1987,213231,false
+Honda,Russia,2011,,false
+Volkswagen,China,1993,419996,false
+Panoz,South Africa,2005,94002,false
+Chevrolet,Brazil,2012,197381,false
+Mercedes-Benz,China,1992,299453,false
+Mitsubishi,Indonesia,1993,367506,false
+Kia,China,2009,237320,false
+Suzuki,China,2012,388859,false
+Toyota,Portugal,2000,242689,true
+Chevrolet,Russia,1994,41733,false
+Mercury,Colombia,1998,362119,false
+Mazda,Bosnia and Herzegovina,1993,17762,false
+Bentley,United States,2008,13708,false
+Mazda,Poland,2003,464166,true
+Dodge,Portugal,1994,223574,true
+Isuzu,China,2006,220387,true
+Mazda,China,,388954,false
+Scion,Mexico,2012,418746,true
+Toyota,Philippines,2007,32199,false
+Acura,China,2000,282029,true
+Chevrolet,China,2010,261967,false
+GMC,Indonesia,2006,265258,true
+Chevrolet,China,1992,246239,true
+Toyota,Philippines,2010,185203,true
+Dodge,Malaysia,2006,203304,false
+Mitsubishi,Portugal,,422806,false
+GMC,China,1998,461935,false
+Audi,Philippines,2007,422706,false
+Ford,Kazakhstan,1992,121591,false
+Nissan,Brazil,1992,368997,false
+GMC,Greece,2004,421075,false
+Ford,Palestinian Territory,1993,278832,true
+Land Rover,China,,,false
+Oldsmobile,Russia,1999,227828,true
+Mercury,Indonesia,1968,353520,true
+Nissan,Nepal,1997,386396,true
+Dodge,France,,328056,true
+Lincoln,South Africa,2000,337279,false
+Dodge,China,2010,47841,true
+Eagle,Indonesia,1993,443015,false
+Audi,Brazil,1992,13177,false
+Acura,Brazil,2003,228699,false
+Ford,Bahamas,,90370,false
+Toyota,Russia,2006,32516,true
+Saturn,China,2008,449768,true
+Jeep,Russia,2000,368476,true
+Chevrolet,Greece,1972,251853,true
+Volkswagen,Portugal,2009,134543,false
+Toyota,Colombia,2000,,false
+Chevrolet,United States,1993,495753,false
+Toyota,Ukraine,2012,20310,true
+MINI,China,,233691,true
+Saab,Kazakhstan,1987,135391,true
+Mercury,United States,,,false
+Ford,China,2003,,false
+GMC,Indonesia,1993,62997,false
+Mercedes-Benz,Uruguay,2008,343050,true
+Mercedes-Benz,Poland,2001,369570,false
+Suzuki,South Korea,2006,315021,true
+Land Rover,Indonesia,,117279,true
+Lincoln,Thailand,2001,383062,true
+Porsche,Sweden,1995,246394,true
+Mazda,Russia,1993,477303,true
+Ford,Indonesia,1967,166450,false
+Plymouth,Thailand,2000,346147,false
+Volvo,Mongolia,2004,408359,false
+Hyundai,Indonesia,2003,46865,false
+Nissan,Russia,2001,281547,false
+Mercury,South Korea,1996,333576,false
+Dodge,Nigeria,1992,411027,true
+Subaru,Palestinian Territory,,43273,true
+Chevrolet,United States,1987,112354,false
+Jeep,Indonesia,2006,220572,true
+Land Rover,Cuba,2009,,false
+Chevrolet,Malaysia,2004,458018,false
+Buick,Somalia,1986,142400,false
+Mercedes-Benz,Brazil,2012,78288,false
+Buick,China,1991,71455,true
+Dodge,Bosnia and Herzegovina,1993,370833,false
+Buick,China,1987,284625,false
+Ford,Russia,2003,141021,true
+Toyota,Serbia,2003,352116,false
+Volkswagen,United States,2009,360947,true
+Lincoln,China,2000,148689,false
+Mitsubishi,Indonesia,2006,136724,false
+Toyota,Indonesia,2008,,false
+Mitsubishi,France,1997,486980,true
+Mazda,Indonesia,2000,,false
+Chevrolet,Poland,2010,33536,false
+Mercedes-Benz,Indonesia,2001,281876,true
+Mercedes-Benz,Poland,1993,427323,false
+Ford,Argentina,1988,,true
+Toyota,Nigeria,1993,408747,true
+Ford,China,2010,392835,true
+Ford,Bosnia and Herzegovina,1995,,false
+Oldsmobile,China,,284256,false
+Honda,Portugal,1994,284385,false
+Infiniti,Nigeria,1999,22595,false
+BMW,Thailand,2008,234951,false
+Hyundai,Czech Republic,2006,349796,true
+Plymouth,Indonesia,1992,372440,false
+Dodge,Sierra Leone,1985,444818,false
+Ford,Tanzania,1989,425737,false
+Mazda,China,2006,,true
+Subaru,Greece,2009,,false
+Volkswagen,Indonesia,1994,205691,true
+Land Rover,China,2001,132244,true
+GMC,Argentina,1992,209422,true
+GMC,Philippines,1993,411965,false
+Porsche,Indonesia,2013,104498,true
+BMW,Brazil,2005,145796,false
+GMC,Indonesia,1993,33915,false
+Chevrolet,Canada,1975,488097,false
+GMC,Nigeria,1997,490362,false
+Toyota,China,2002,193984,false
+Mercury,Portugal,1985,10504,true
+Honda,Portugal,1998,53802,false
+Kia,China,1997,89389,false
+Lamborghini,Brazil,2008,218662,false
+Mercedes-Benz,Sweden,1993,,true
+Pontiac,Russia,,131883,false
+Toyota,China,2004,166389,true
+Ford,Netherlands,1996,105110,true
+Jeep,China,2010,360582,false
+Kia,Vietnam,1997,263055,false
+Ford,China,2000,35361,true
+GMC,Indonesia,2004,,true
+Scion,Malta,2004,94417,true
+Hyundai,Moldova,2009,101143,true
+Chrysler,Poland,2001,151286,true
+Cadillac,Indonesia,2011,473087,false
+Jeep,Colombia,2001,270341,false
+Volvo,Portugal,2001,,false
+GMC,Iran,1994,249068,false
+Lincoln,Brazil,1989,245395,true
+Audi,Chile,1993,377853,true
+Jensen,Greece,1967,328391,false
+Lexus,Indonesia,1991,336399,true
+Pontiac,China,1988,118224,false
+Nissan,Sweden,,62751,false
+Maserati,Portugal,1990,462087,false
+Infiniti,Finland,2011,239697,false
+Honda,Cuba,,167855,true
+Mitsubishi,United States,1999,192440,true
+BMW,France,2007,261354,false
+Mazda,Portugal,2008,233502,true
+Toyota,China,2001,,false
+Lincoln,Portugal,2007,406979,true
+Mitsubishi,Philippines,1996,138641,true
+Mercedes-Benz,Greece,2000,236386,true
+Geo,Bosnia and Herzegovina,1997,489008,true
+Dodge,Ukraine,1992,,false
+Ford,Pakistan,,297660,false
+Ford,China,1988,244984,false
+Lexus,Philippines,,89977,false
+Ford,Philippines,1996,,false
+Pontiac,Indonesia,2002,441326,false
+Chevrolet,Brazil,2007,243039,true
+Dodge,Indonesia,2005,328663,true
+Dodge,Indonesia,1968,356642,false
+Volkswagen,Russia,2010,184132,true
+Chevrolet,Indonesia,2007,167138,false
+GMC,Philippines,2005,488924,false
+Ram,Venezuela,2012,473344,false
+Hillman,Germany,1950,172828,true
+Chevrolet,China,1999,,true
+Pontiac,China,1966,,false
+Mercedes-Benz,France,1996,240383,false
+Lamborghini,China,2006,186703,true
+Ford,Sierra Leone,2005,327351,false
+Pontiac,Czech Republic,1992,,false
+Subaru,Poland,2007,393242,false
+Acura,Guadeloupe,2001,474685,true
+Buick,Japan,2004,77154,true
+Mercedes-Benz,Poland,1993,414127,true
+Mercury,China,1986,,false
+Land Rover,Tunisia,,305113,true
+Lexus,Greece,2010,317316,true
+GMC,Czech Republic,1999,334168,false
+Land Rover,Indonesia,2009,391378,true
+Ford,Tunisia,2009,328715,true
+Audi,Brazil,2004,196594,false
+Ford,Mongolia,1987,154352,true
+GMC,Ethiopia,1999,238096,true
+Oldsmobile,Philippines,1992,282463,false
+Subaru,France,1991,190994,true
+GMC,France,2011,145994,false
+Cadillac,Jordan,2001,301963,false
+BMW,Philippines,2009,167332,true
+Mercury,Indonesia,1986,,false
+Lexus,Brazil,2006,313013,false
+Porsche,China,1999,205943,false
+Chevrolet,Portugal,2002,79391,false
+Smart,Poland,2011,433138,false
+Pontiac,Russia,1988,269189,false
+Ford,Indonesia,2007,86699,false
+Chrysler,Russia,,31943,true
+Chevrolet,Greece,2012,196547,true
+Subaru,Indonesia,1994,305203,true
+Chevrolet,Indonesia,2000,116114,false
+Mitsubishi,Russia,2012,13768,true
+Mazda,China,2001,159552,false
+Hummer,Indonesia,1998,359396,false
+Mercury,Russia,2005,53225,false
+Ford,Russia,1987,395650,false
+Mazda,Philippines,2000,314113,true
+Chrysler,China,2004,193168,false
+Chevrolet,Canada,2002,122761,false
+Mercury,Russia,2002,391276,false
+Pontiac,Colombia,1964,452423,true
+Buick,Indonesia,2004,301644,true
+Tesla,China,2012,326731,true
+Pontiac,China,2008,250398,true
+Buick,Philippines,1993,44589,false
+Volkswagen,Serbia,1986,301946,false
+Chrysler,United States,2005,349723,true
+Mazda,China,2012,243992,false
+Mercedes-Benz,Sweden,2011,339384,false
+Pontiac,Indonesia,1984,,true
+Mitsubishi,Indonesia,2002,361837,true
+Nissan,Afghanistan,2012,433608,true
+Mitsubishi,Thailand,1988,197048,false
+BMW,China,2012,124726,false
+Toyota,Norway,1992,296179,false
+Cadillac,Philippines,2007,491452,false
+Infiniti,Bermuda,2003,81762,true
+Chevrolet,Philippines,2003,60622,false
+Chevrolet,China,2008,400181,false
+Toyota,Costa Rica,2002,345194,false
+Chevrolet,Czech Republic,2007,171529,true
+BMW,Sweden,2003,161531,true
+Mercedes-Benz,China,1989,230026,true
+Ford,Canada,2012,111854,true
+Ford,China,1996,71463,false
+Toyota,Indonesia,2011,115882,true
+BMW,China,2003,,true
+Lincoln,Colombia,1992,264328,false
+Audi,Ecuador,2007,30141,true
+Dodge,Russia,1993,194299,true
+Saab,China,1985,464442,false
+Honda,Belarus,,184527,false
+GMC,Ireland,2009,361064,false
+Chrysler,Brazil,1993,497195,true
+Isuzu,Indonesia,,460035,false
+Cadillac,Indonesia,2007,285279,false
+Mazda,Mexico,2007,492513,true
+Tesla,Tunisia,2012,81630,false
+Maserati,China,2006,,false
+Land Rover,Canada,2007,,false
+Mazda,Nigeria,1997,331555,true
+Mazda,Philippines,1990,112213,false
+Chevrolet,Argentina,,247376,false
+Subaru,United States,1992,179651,true
+Saturn,China,2001,,true
+Chevrolet,Guatemala,2010,194277,false
+Nissan,Colombia,2005,,true
+Cadillac,Afghanistan,2009,452493,false
+Jeep,France,2001,71642,false
+Mercedes-Benz,Ukraine,2009,378641,true
+Dodge,Indonesia,2001,254711,true
+Jeep,Ukraine,2011,414066,false
+Mitsubishi,China,2002,366485,true
+GMC,Philippines,2012,65725,true
+Ford,China,2009,368316,true
+BMW,Democratic Republic of the Congo,1994,439893,true
+Volkswagen,China,1996,386160,false
+BMW,Argentina,2007,298038,true
+Chevrolet,Indonesia,2008,423101,true
+Chevrolet,China,,348963,false
+Mitsubishi,Honduras,1989,,true
+Mazda,Greece,1992,446059,true
+Honda,Panama,1980,467493,true
+Kia,Cuba,2008,432057,true
+Suzuki,United States,1992,85393,false
+Oldsmobile,Malta,1995,114629,true
+Aston Martin,China,2011,152336,false
+Lexus,Indonesia,2012,342399,false
+Mazda,Lithuania,1991,,false
+BMW,Central African Republic,2003,29436,true
+Ford,Armenia,2009,348857,false
+Oldsmobile,Portugal,,69418,true
+Chevrolet,Czech Republic,2002,324389,true
+Chevrolet,Russia,,220182,false
+Lexus,Indonesia,2007,,false
+Dodge,Indonesia,2002,110426,true
+Lexus,Portugal,,326491,false
+Porsche,Czech Republic,2010,190179,false
+Audi,China,2011,471353,false
+Pontiac,Greece,2001,286662,false
+Mazda,Czech Republic,2000,,false
+Volkswagen,Kyrgyzstan,2005,263832,true
+Chevrolet,Philippines,2011,74417,true
+Plymouth,China,1997,201938,true
+Toyota,Iraq,2006,145016,true
+Land Rover,United States,1998,428131,true
+Mazda,Libya,2002,438368,false
+Pontiac,Russia,2007,,false
+Volkswagen,Peru,,230048,false
+Chevrolet,Poland,1992,322932,false
+Dodge,China,2009,120628,true
+Pontiac,Iran,,484124,true
+Volkswagen,Brazil,2001,111603,false
+Infiniti,Mexico,1998,24033,false
+GMC,Poland,2012,143783,false
+Chevrolet,Bulgaria,1995,181783,false
+Chevrolet,Mongolia,2001,219034,false
+Chevrolet,China,,312977,true
+Dodge,Portugal,2010,220820,false
+Pontiac,Zambia,1988,222774,true
+Chevrolet,Kazakhstan,2000,,true
+Jeep,Russia,2005,,true
+Cadillac,Indonesia,2008,187657,false
+Volkswagen,Portugal,2001,414458,true
+BMW,China,2008,198435,false
+Mazda,Canada,1992,359467,false
+Toyota,Brazil,2012,,true
+Nissan,China,2004,125210,false
+Toyota,Spain,2012,401640,true
+Jaguar,Russia,2002,499707,false
+Volkswagen,Armenia,1993,415110,false
+Volvo,China,2005,462919,false
+Dodge,Philippines,1997,355219,true
+Jeep,Georgia,1997,25228,false
+Ford,China,2011,365229,true
+Toyota,China,1995,403431,true
+Ford,Philippines,2003,430405,true
+Ford,Poland,1987,162633,true
+Mitsubishi,Zimbabwe,,61484,false
+Hummer,Tunisia,2008,380877,false
+Lexus,Philippines,2007,456568,false
+Buick,Netherlands,1988,183576,false
+Chevrolet,Cuba,1995,65947,true
+Honda,Democratic Republic of the Congo,2008,,false
+Chevrolet,Brazil,1969,496224,false
+Audi,Sweden,2007,300404,false
+Chevrolet,Argentina,2011,488653,false
+GMC,Germany,1996,236767,true
+Buick,China,2012,,true
+Buick,Philippines,2002,100957,true
+Lexus,Colombia,2003,241249,false
+GMC,Russia,2008,,false
+Lexus,New Zealand,2011,40139,false
+GMC,Azerbaijan,1998,,true
+Mercury,Italy,2006,29912,false
+Oldsmobile,Indonesia,1998,303761,true
+Aston Martin,China,2005,37188,false
+Honda,Brazil,,319243,false
+BMW,Guatemala,2010,107398,true
+Kia,Canada,2000,355856,false
+GMC,Indonesia,1996,,false
+Toyota,Haiti,2010,186723,true
+Kia,Philippines,2002,190689,false
+Ford,France,1997,246520,false
+Infiniti,Indonesia,2011,171835,true
+Ford,South Korea,1997,155409,false
+Chevrolet,Democratic Republic of the Congo,2005,262337,true
+Daewoo,Cuba,1999,205654,false
+GMC,Bolivia,2008,433956,true
+Cadillac,Poland,2000,36383,false
+Volvo,Serbia,1999,14764,true
+Lexus,Brazil,1993,194725,false
+Oldsmobile,Faroe Islands,2004,142489,false
+GMC,China,2003,160465,false
+Mazda,Ukraine,1996,499859,true
+GMC,China,1994,250101,true
+Infiniti,China,2003,182407,true
+Chevrolet,Albania,1975,,true
+Toyota,Philippines,1998,422032,true
+Volkswagen,Philippines,2012,75987,false
+BMW,China,2000,466450,false
+Infiniti,Poland,2012,479306,false
+Nissan,Russia,2010,288090,true
+Toyota,Canada,1997,130326,true
+Ford,Luxembourg,1989,330695,false
+Chrysler,France,2008,70478,false
+Pontiac,Colombia,1990,270926,true
+Audi,China,2011,220973,true
+Bentley,China,,39868,true
+Lexus,Malta,2010,188970,true
+GMC,United States,2011,476838,true
+Jeep,Nigeria,1992,14686,false
+Saab,China,1991,24340,true
+Mazda,Philippines,2007,,false
+Pontiac,Czech Republic,1991,,false
+Ford,United States,1995,35148,true
+Lotus,Malaysia,2008,290558,true
+Cadillac,Indonesia,1992,345392,true
+Ford,Greece,1985,387475,false
+Mazda,France,1997,411860,false
+Ford,Czech Republic,1995,161651,false
+Toyota,Iran,2012,,false
+Porsche,Guatemala,2010,,true
+Dodge,Poland,,,false
+Isuzu,Indonesia,1997,438037,true
+Porsche,Tanzania,2012,,true
+Lexus,United States,2010,370417,false
+GMC,Indonesia,1995,209191,true
+Cadillac,Indonesia,2003,358132,true
+Chrysler,Portugal,1995,,false
+Lexus,Tunisia,1992,262874,true
+Bentley,Portugal,2012,94693,false
+Chevrolet,China,1997,366077,false
+Saab,Sweden,2006,25637,true
+Saab,Czech Republic,2000,101294,true
+Nissan,Thailand,,487699,true
+Kia,Canada,2003,,false
+Lotus,Norway,1996,,true
+Buick,China,1998,151262,true
+Ford,Bolivia,1986,32113,true
+Pontiac,Czech Republic,1984,172315,false
+Mazda,China,1984,364564,true
+Chevrolet,Sweden,2011,,false
+Buick,Philippines,1997,211393,true
+Dodge,Poland,2007,215982,true
+Ford,Portugal,1998,479087,false
+Ford,China,1997,459654,true
+Toyota,Czech Republic,2001,357147,false
+Chevrolet,Moldova,1998,244652,false
+Chevrolet,Nigeria,1993,353215,false
+Hummer,Peru,1997,60222,false
+Volvo,Philippines,2011,120046,false
+Honda,Indonesia,2004,438080,true
+Lotus,France,2009,,false
+Volkswagen,Brazil,1993,142345,false
+Hyundai,Morocco,2010,301064,true
+Suzuki,Indonesia,2007,287596,false
+Saturn,Indonesia,1997,387472,false
+Mercedes-Benz,China,,313685,true
+Tesla,Indonesia,2012,,false
+Chevrolet,Tunisia,2010,233798,true
+Mercedes-Benz,Iran,2010,358884,false
+Aston Martin,China,2011,44486,false
+Plymouth,Panama,1998,228590,false
+Shelby,China,1969,,false
+Mazda,Poland,1998,316358,false
+Ford,Canada,,306940,false
+Kia,China,2010,458258,false
+Ford,Peru,1997,128082,false
+Cadillac,Philippines,1998,391070,false
+Ford,China,2012,,true
+Hyundai,Philippines,2008,183064,false
+Lincoln,Azerbaijan,2010,202736,true
+BMW,Poland,2004,434182,true
+Honda,Philippines,2009,83008,true
+Cadillac,China,2011,,true
+Chevrolet,Philippines,2011,23586,true
+Ford,China,2003,,true
+Cadillac,China,2008,144439,false
+Pontiac,Brazil,,,true
+Cadillac,Venezuela,2003,451994,false
+Toyota,Russia,1995,,true
+Saab,Syria,1991,54447,false
+Cadillac,Haiti,2011,429366,false
+Mercedes-Benz,China,1988,201303,false
+Pontiac,Indonesia,1987,347515,true
+Mercedes-Benz,France,1992,443321,false
+Mitsubishi,Nicaragua,2005,42074,false
+Lexus,China,1999,,false
+Volkswagen,Japan,1991,193666,false
+Audi,Indonesia,1995,226469,false
+Chevrolet,Egypt,1992,,false
+Chevrolet,Djibouti,1992,307025,false
+Subaru,Russia,1991,428434,false
+Toyota,Pakistan,1995,,true
+Lexus,United States,2009,413231,true
+MINI,Sweden,2012,180517,true
+Mercedes-Benz,Sweden,1993,295905,false
+Lexus,Mongolia,2004,,false
+Lexus,France,2010,364134,false
+Chevrolet,Philippines,1999,,false
+Rolls-Royce,Argentina,2005,224591,false
+Pontiac,Brazil,1970,35280,false
+Jaguar,Indonesia,2010,70075,false
+Nissan,China,,195141,true
+GMC,Argentina,2002,237555,true
+Audi,South Africa,2009,380296,false
+BMW,Iran,2002,412139,false
+BMW,Russia,2010,229345,true
+Mazda,Costa Rica,1984,50998,true
+Aptera,United States,2009,38423,true
+Mitsubishi,Indonesia,2000,101308,false
+Volvo,Indonesia,2012,66309,true
+Plymouth,Serbia,1992,103586,true
+Ford,Brazil,2013,441699,false
+Dodge,China,1994,497337,true
+Ford,Russia,1993,,true
+Suzuki,Colombia,2009,25693,true
+Mazda,France,,45822,true
+Ford,China,1987,167603,true
+Dodge,Niger,1993,356073,false
+Aston Martin,Argentina,2012,239143,true
+Lamborghini,Indonesia,,292011,false
+Eagle,Russia,1993,395407,true
+Mazda,Guatemala,1992,,true
+Suzuki,China,2005,30243,false
+Suzuki,Canada,2001,226616,true
+Ford,Jordan,1993,339479,true
+Lamborghini,Philippines,,70930,false
+BMW,Brazil,2008,323867,false
+Ford,China,1988,216813,false
+Nissan,China,2006,,true
+Isuzu,Mexico,,136926,true
+Toyota,Canada,2005,400583,true
+Mercedes-Benz,Colombia,2007,268874,true
+Eagle,United Kingdom,1993,311520,false
+Rolls-Royce,Poland,2007,105928,true
+Volkswagen,Poland,2001,70273,true
+Mazda,Finland,2008,212778,false
+Lotus,United States,1990,454494,false
+Lincoln,Ukraine,1985,331338,true
+Oldsmobile,Brazil,1993,315703,true
+Lincoln,Croatia,1998,177723,false
+Mitsubishi,Belarus,,429043,false
+Mitsubishi,Portugal,2003,140555,true
+Kia,China,2009,14896,false
+Nissan,China,2006,378535,true
+Volvo,Serbia,1995,399616,true
+Dodge,Portugal,1995,202818,true
+Suzuki,Russia,2003,54769,true
+Mercury,Indonesia,2010,,true
+Ford,Indonesia,2009,,false
+Chevrolet,Mongolia,2002,71787,false
+Chevrolet,Vietnam,1999,,true
+Volkswagen,China,1988,158170,false
+Chevrolet,Indonesia,2011,279245,false
+Jaguar,Jamaica,2005,434388,true
+Saturn,Pakistan,1997,485061,false
+Dodge,Indonesia,1999,242288,false
+Infiniti,Serbia,2006,,true
+Oldsmobile,Portugal,1993,151418,true
+Oldsmobile,Cyprus,2003,,true
+Toyota,Niger,2006,491353,false
+Ford,Czech Republic,1984,280711,false
+Mazda,China,2007,121123,true
+Austin,China,1964,,false
+Aston Martin,Philippines,2009,289763,false
+Oldsmobile,Portugal,1992,170406,false
+Plymouth,Indonesia,2000,497736,false
+Mercury,United States,1998,329547,false
+Mitsubishi,Philippines,1998,403209,true
+Volkswagen,Russia,2010,,true
+Ford,Portugal,2001,72385,true
+Dodge,Indonesia,2004,,true
+Hyundai,Latvia,2010,400361,true
+Chevrolet,China,2006,390480,false
+Chevrolet,Brazil,,,true
+Chevrolet,Myanmar,2011,,true
+Honda,Philippines,2004,344625,true
+Bentley,Indonesia,2009,412145,false
+Buick,Brazil,1989,,true
+Mazda,Republic of the Congo,1993,223357,false
+Lexus,China,1999,,false
+Mercedes-Benz,Brazil,2005,80929,true
+Toyota,China,1999,253498,false
+Kia,Ireland,,378036,true
+Nissan,China,2005,260757,false
+Honda,Mali,2007,234089,true
+GMC,United States,1994,268612,false
+Buick,China,,26783,false
+Buick,Malaysia,1999,212579,false
+Ford,China,2012,,true
+Audi,Japan,,496463,true
+Volkswagen,China,2012,429677,false
+Volkswagen,China,2000,253514,true
+GMC,China,2009,325354,true
+Toyota,Portugal,2002,44699,true
+Land Rover,China,2011,292972,true
+Infiniti,Philippines,2012,54958,true
+Volkswagen,South Africa,2012,308718,true
+Volvo,Philippines,2013,,true
+Honda,Dominican Republic,1986,,false
+Buick,Thailand,1993,149501,false
+Audi,Poland,1987,335749,true
+BMW,Turkmenistan,2004,476345,false
+GMC,Philippines,1996,495540,true
+Mitsubishi,Luxembourg,2010,61132,true
+Lincoln,Sweden,2001,129488,true
+Chrysler,China,2002,245611,true
+Ford,Indonesia,1995,,false
+Toyota,Russia,2006,,true
+Chevrolet,China,2003,366068,false
+Jeep,Democratic Republic of the Congo,2005,360043,false
+Toyota,Sweden,2009,,false
+Ford,Tanzania,1993,21042,false
+Chrysler,Indonesia,1999,310763,true
+Toyota,Indonesia,2006,421136,true
+Honda,Curacao,2001,120430,false
+Nissan,Guatemala,2006,,false
+Mazda,Dominican Republic,2000,354542,false
+Chevrolet,Indonesia,2010,43913,false
+Mazda,Indonesia,1990,200219,true
+Ford,Indonesia,1990,322719,false
+BMW,Yemen,2004,,false
+Dodge,China,,132361,false
+Lamborghini,Afghanistan,2005,376302,true
+Mercedes-Benz,Gambia,1992,414002,false
+GMC,Poland,1992,356117,true
+Honda,Czech Republic,2004,97155,false
+Buick,United States,1998,109183,true
+Subaru,Brazil,2008,146381,false
+GMC,Syria,2007,64733,false
+Alfa Romeo,Slovenia,1992,83287,true
+Chrysler,China,2005,469425,true
+Lincoln,China,2012,208650,false
+Hyundai,Russia,2012,365008,false
+Mazda,Cambodia,,350107,false
+Ford,China,1992,285090,false
+Lincoln,Serbia,2007,268677,true
+Plymouth,China,1964,,true
+Dodge,Cyprus,1998,339610,false
+Infiniti,Russia,2011,141931,true
+Oldsmobile,France,,301328,true
+Rolls-Royce,Poland,2005,390880,true
+Audi,Ukraine,1993,138943,false
+BMW,China,2007,107646,false
+Toyota,Palestinian Territory,2005,347312,false
+Acura,France,1998,165513,true
+Ford,Madagascar,2001,415932,true
+Lexus,Finland,2011,489569,false
+Jaguar,Indonesia,2005,130893,true
+Nissan,France,1999,445495,false
+Ford,Philippines,2011,425705,false
+Acura,South Africa,1996,374579,false
+Chrysler,Portugal,2008,299233,false
+Mitsubishi,Russia,2004,452917,false
+Chevrolet,Israel,,107703,false
+Chevrolet,Finland,2003,192426,false
+Chevrolet,Gambia,2006,210319,false
+Pontiac,Sweden,1991,332888,true
+GMC,Philippines,1993,358691,true
+Lexus,Indonesia,1998,54505,false
+Oldsmobile,Pakistan,1996,475702,false
+BMW,Philippines,2001,430418,false
+Lincoln,Poland,1996,434246,false
+Buick,Malawi,2005,,false
+Lincoln,China,2010,59306,true
+Land Rover,Colombia,2002,273843,true
+Dodge,China,2008,82953,false
+Volkswagen,United States,2008,108897,false
+Chevrolet,Indonesia,2010,267312,true
+Honda,Nigeria,2007,363549,true
+Audi,Russia,2011,80133,true
+Ford,France,1989,452311,false
+Dodge,Slovenia,2006,125282,false
+Land Rover,Germany,2004,,true
+GMC,Albania,2004,230409,false
+Ford,China,1989,65822,true
+GMC,Pakistan,2000,183228,true
+Rolls-Royce,Iran,2011,193683,false
+Mitsubishi,Morocco,1990,186648,false
+Pontiac,Honduras,1999,207295,false
+Mitsubishi,Indonesia,,,true
+Volkswagen,Luxembourg,,330812,false
+Ford,Brazil,2006,232335,true
+GMC,China,2013,377091,false
+Ford,China,1990,118076,true
+GMC,Nigeria,1992,143398,true
+GMC,Sweden,2012,425212,false
+Ford,Russia,,427925,false
+Infiniti,Peru,1995,257154,false
+BMW,Belarus,1994,334725,false
+Chrysler,Western Sahara,1995,417100,true
+Ford,Czech Republic,2006,491329,false
+Mazda,United States,2003,421022,false
+Subaru,Sweden,1986,19873,false
+Mitsubishi,Indonesia,1996,,true
+Mazda,South Africa,1989,28541,true
+Audi,Indonesia,,457953,true
+Ford,China,1988,221859,false
+Subaru,Ethiopia,2009,189418,true
+Buick,Philippines,1985,147654,true
+Mercury,China,,,false
+Pontiac,Canada,2008,294765,true
+Ford,Colombia,1999,146501,false
+Mercedes-Benz,China,2007,240428,true
+Cadillac,Venezuela,1995,324987,false
+Ford,China,2008,44461,false
+Audi,Japan,2000,58580,false

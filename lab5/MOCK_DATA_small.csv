@@ -1,0 +1,11 @@
+Car Make,Country,Year,Mileage,Needs Repair
+Suzuki,Ireland,2005,491887,false
+Suzuki,Ireland,1971,490908,true
+Mitsubishi,Ireland,1997,,false
+Suzuki,Sweden,2002,136542,false
+Mitsubishi,Ireland,1999,,true
+Mitsubishi,Sweden,2004,278246,true
+Subaru,Sweden,1983,422623,false
+Subaru,Sweden,1988,407803,false
+Mitsubishi,Sweden,1992,482174,true
+Subaru,Sweden,1984,352070,false
